@@ -22,5 +22,6 @@ public class AddNumbers {
 
         // Display the result
         System.out.println("Sum: " + sum);
+        System.out.println("242");
     }
 }
